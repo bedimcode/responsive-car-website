@@ -1,0 +1,152 @@
+========== HOME ==========
+.home__title
+Choose The Best Car
+
+.home__subtitle
+Porsche Mission E
+
+.home__elec
+Electric car
+
+.home__car-number | .home__car-name
+24°
+TEMPERATURE
+
+873
+MILEAGE
+
+94%
+BATTERY
+
+========== ABOUT ==========
+.about__card-title
+2.500+
+
+.about__card-description
+Supercharges placed along popular routes
+
+.section__title
+Machines With <br> Future Technology
+
+.about__description
+See the future with high-performance electric cars produced by 
+renowned brands. They feature futuristic builds and designs with 
+new and innovative platforms that last a long time.
+
+========== POPULAR ==========	
+.section__title
+Choose Your Electric Car <br> Of The Porsche Brand
+
+.popular__title | .popular__subtitle
+Porsche
+Turbo S
+
+Porsche
+Taycan
+
+Porsche
+Turbo S Cross
+
+Porsche
+Boxster 718
+
+Porsche
+Cayman
+
+.popular__data-group
+3.7 Sec
+356 Km/h
+Electric
+
+.popular__price
+$175,900
+$114,900
+$150,900
+$125,900
+$128,900
+
+========== FEATURES ==========
+.section__title
+More Features
+
+.features__card-1
+800v
+Turbo <br> Chargin</p>
+
+.features__card-2
+350
+Km <br> Range
+
+.features__card-3
+480
+Km <br> Travel
+
+========== FEATURED ==========
+.section__title
+Featured Luxury Cars
+
+.featured__title | .featured__subtitle | .featured__price
+Tesla
+Model X
+$98,900
+
+Tesla
+Model 3
+$45,900
+
+Audi
+E-tron
+$175,900
+
+Porsche
+Boxster 987
+$126,900
+
+
+Porsche
+Panamera
+$126,900
+
+========== OFFER ==========
+.section__title
+Do You Want To Receive <br> Special Offers?
+
+.offer__description
+Be the first to receive all the information about our 
+products and new cars by email by subscribing to our 
+mailing list.
+
+.button
+Subscribe Now
+
+========== FOOTER ==========
+.footer__title
+Elecar
+
+.footer__description
+We offer the best electric cars of <br> 
+the most recognized brands in <br> 
+the world.
+
+.footer__title | .footer__link
+Company
+About
+Cars
+History
+Shop
+
+Information
+Request a quote
+Find a dealer
+Contact us
+Services
+
+Follow us
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; Bedimcode. All rigths reserved
